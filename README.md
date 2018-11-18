@@ -1,4 +1,4 @@
-# Demo XebCon'18
+# Demo XebiCon'18
 
 Use case **Diabetes Progression**
 
