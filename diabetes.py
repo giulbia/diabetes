@@ -34,17 +34,6 @@ def train_diabetes():
     alpha = args.alpha
     l1_ratio = args.l1_ratio
 
-    # # Set default values
-    # if float(alpha) is None:
-    #     alpha = 0.05
-    # else:
-    #     alpha = float(alpha)
-    #
-    # if float(l1_ratio) is None:
-    #     l1_ratio = 0.05
-    # else:
-    #     l1_ratio = float(l1_ratio)
-
     np.random.seed(40)
 
     # Load Diabetes datasets
